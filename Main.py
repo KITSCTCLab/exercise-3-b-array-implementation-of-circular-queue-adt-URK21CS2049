@@ -1,5 +1,5 @@
 class MyCircularQueue:
-    def __init__(self, size: int);
+    def __init__(self, size: int):
         # Write code here
         self.size=size
         self.queue=[None]*size
